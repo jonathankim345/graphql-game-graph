@@ -1,10 +1,8 @@
 # GraphQL - Game Graph
 
-Simple overview of use/purpose.
-
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Simple database and code to showcase the functions of GraphQL
 
 ## Getting Started
 
