@@ -12,19 +12,16 @@ Simple database and code to showcase the functions of GraphQL
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* Simply clone this repository
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
+* Run this line in the terminal after installing all dependencies
 ```
-code blocks for commands
+node index.js
 ```
-```
-command to run if program contains helper info
-```
+* Open up http://localhost:4000/ to access Apollo terminal and UI 
+
 
 ## Authors
 
