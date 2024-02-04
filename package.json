@@ -1,0 +1,25 @@
+{
+  "name": "graphql-game-graph",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathankim345/graphql-game-graph.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathankim345/graphql-game-graph/issues"
+  },
+  "homepage": "https://github.com/jonathankim345/graphql-game-graph#readme",
+  "dependencies": {
+    "@apollo/server": "^4.10.0",
+    "graphql": "^16.8.1"
+  },
+  "type": "module"
+}
